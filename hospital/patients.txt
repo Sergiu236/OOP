@@ -1,0 +1,8 @@
+Kyrie Doe|undiagnosed|Cardiology|Dr. Serj|2024-06-20
+Jane Smith|undiagnosed|Neurology|Dr. Johnny|2024-06-21
+Zara Johnson|undiagnosed|Orthopedics|Dr. Brony|2024-06-22
+Dwight Brown|undiagnosed|Pediatrics|Dr. Taylor|2024-06-23
+Charlie Taylor|undiagnosed|General Surgery|Dr. Anderson|2024-06-24
+Tramba Andercaca|retard|psychward|Dr. Taylor|2024-06-25
+Mocan Sergiu|undiagnosed|Cardiology|Dr. Thom|2024-06-26
+Pop Maria|diagnosed|Cardiology|Dr. Serj|2024-06-27
